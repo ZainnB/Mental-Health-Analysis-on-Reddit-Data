@@ -83,7 +83,7 @@ To track how sentiment and emotion patterns in mental health subreddits have evo
 
 **Zain Baig**  
 BSCS Student | Python Developer | Data Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/zain-baig-04790b260/) | ✉️ zainbaig@example.com
+🔗 [LinkedIn](https://www.linkedin.com/in/zain-baig-04790b260/) | ✉️ zainbaig.zb03@gmail.com
 
 ---
 
