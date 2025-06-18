@@ -6,9 +6,9 @@ import os
 
 # === Initialize Reddit API ===
 reddit = praw.Reddit(
-    client_id='-',
-    client_secret='-',
-    user_agent='-'
+    client_id='REDDIT_CLIENT_ID',
+    client_secret='REDDIT_CLIENT_SECRET',
+    user_agent='REDDIT_USER_AGENT',
 )
 
 # === Config ===
